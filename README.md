@@ -11,3 +11,7 @@ Image Classification with Perceptron and LDA and PCA dimension reduction
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"  title="tensorflow" alt="tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"  title="Sci-kit Learn" alt="Sci-kit Learn" width="40" height="40"/>&nbsp;
 </div>
+
+## License
+
+This project is licensed under the MIT License.
