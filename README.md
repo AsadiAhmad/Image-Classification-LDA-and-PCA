@@ -12,6 +12,11 @@ Image Classification with Perceptron and LDA and PCA dimension reduction
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg"  title="Sci-kit Learn" alt="Sci-kit Learn" width="40" height="40"/>&nbsp;
 </div>
 
+
+## Run the Notebook on Google Colab
+
+You can easily run this code on google colab by just clicking this badge [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsadiAhmad/Image-Classification-LDA-and-PCA/blob/main/Image_Classification_with_LDA_%26_PCA.ipynb)
+
 ## License
 
 This project is licensed under the MIT License.
