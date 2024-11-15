@@ -44,6 +44,16 @@ You can see better accuracy at LDA than the PCA method. Another conclusion we ca
 
 <img src="/Pictures/conclusion-table-PCA.JPG"/>
 
+## Results
+
+### LDA Confusion Matrix
+
+<img src="/Pictures/Confusion-Matrix-LDA.JPG"/>
+
+### PCA Confusion Matrix
+
+<img src="/Pictures/Confusion-Matrix-PCA.JPG"/>
+
 ## License
 
 This project is licensed under the MIT License.
