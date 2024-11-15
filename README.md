@@ -22,7 +22,7 @@ You can easily run this code on google colab by just clicking this badge [![Open
 
 ## Conclusion
 
-In this project, we demonstrated the application of LDA and PCA for effective dimensionality reduction in image classification tasks. In out analysis we found the LDA better than the PCA for dimension reduction task. Accuracy of the LDA is much better than PCA becuase LDA is supervised Learning and PCA is unsupervised learning method. Most of the time supervised Learning have better accuracy than unsupervised learning methods because supervised method using the labels but unsupervised dose not.However when we dont have any labels then we can just use the unsupervised method.
+In this project, we demonstrated the application of LDA and PCA for effective dimensionality reduction in image classification tasks. In out analysis we found the LDA better than the PCA for dimension reduction task. Accuracy of the LDA is much better than PCA because LDA is supervised Learning and PCA is unsupervised learning method. Most of the time supervised Learning have better accuracy than unsupervised learning methods because supervised method using the labels but unsupervised does not.However when we don't have any labels then we can just use the unsupervised method.
 
 Here you can see BoxPlot of each method we have been used :
 
@@ -34,7 +34,7 @@ Here you can see BoxPlot of each method we have been used :
 
 <img src="/Pictures/BoxPlot-PCA.png"/>
 
-You can see better accuracy at LDA than the PCA method. Another conclusion we can get is look like when dimension reach a point like 9 to 25 dimension in PCA method our accuarcy does not grow much show that our method is reaching its highes point of accuracy after that maybe we have overfit and you can see the overfiting and underfiting results down here :
+You can see better accuracy at LDA than the PCA method. Another conclusion we can get is look like when dimension reach a point like 9 to 25 dimension in PCA method our accuracy does not grow much show that our method is reaching its highest point of accuracy after that maybe we have overfit and you can see the overfitting and underfitting results down here :
 
 ### LDA Results Table
 
