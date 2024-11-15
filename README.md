@@ -26,7 +26,23 @@ In this project, we demonstrated the application of LDA and PCA for effective di
 
 Here you can see BoxPlot of each method we have been used :
 
+### LDA BoxPlot
+
+<img src="/Pictures/BoxPlot-LDA.png"/>
+
+### PCA BoxPlot
+
+<img src="/Pictures/BoxPlot-PCA.png"/>
+
 You can see better accuracy at LDA than the PCA method. Another conclusion we can get is look like when dimension reach a point like 9 to 25 dimension in PCA method our accuarcy does not grow much show that our method is reaching its highes point of accuracy after that maybe we have overfit and you can see the overfiting and underfiting results down here :
+
+### LDA Results Table
+
+<img src="/Pictures/conclusion-table-LDA.JPG"/>
+
+### PCA Results Table
+
+<img src="/Pictures/conclusion-table-PCA.JPG"/>
 
 ## License
 
